@@ -3,8 +3,10 @@
 <hr>
   <h1>Short Of Me</h1>
   <p>
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient              montes, nascetur ridiculus mus. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit.        
+        usually on at 9am or 8pm <br>
+      often offtab :/ open c+h feel free to talk2me
   </p>
+  <img src="">
 <img align="right" width="150" height="100" src="https://i.pinimg.com/736x/82/54/57/825457d7558e16bbd7b4a744e60d5a87.jpg">
 <p>
     Morbi nec metus. Phasellus blandit leo ut odio. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. Sed magna     purus, fermentum eu, tincidunt eu, varius ut, felis. In auctor lobortis lacus. Quisque libero metus, condimentum nec, tempor a, magna. 

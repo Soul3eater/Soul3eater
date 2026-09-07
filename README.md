@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/83/82/68/83826812f4e1033f64fecd43338611b5.jpg" width="100%" alt="banner">
+
 <hr>
   <h1>Short Of Me</h1>
   <p>

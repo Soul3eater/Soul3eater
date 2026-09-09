@@ -29,3 +29,10 @@
 <img src="https://talkypup.com/images/stamps/tumblr-prx0uw-Gci-N1xzybrpo2-100.png">
 </p>
 </p>
+
+<hr>
+<p align="center">8
+  <img src="https://media1.tenor.com/m/jfzGbDQ5_UkAAAAd/hayley-williams-paramore.gif" width="250" height="200">
+  <img src="https://media1.tenor.com/m/mB4YkTN3zKAAAAAC/ptv-vic-fuentes.gif" width="250" height="200">
+  <img src="https://media1.tenor.com/m/yjS1PKTXzeEAAAAC/weezer-explode-weezer.gif" width="250" height="200">
+<p>
